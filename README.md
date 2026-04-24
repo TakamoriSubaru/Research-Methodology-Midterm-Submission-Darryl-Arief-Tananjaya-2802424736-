@@ -1,74 +1,44 @@
-# Research Methodology Midterm Project
+# COMP6696001 – Research Methodology Midterm
+
+## Submission (2025-2026)
 
 ## Student Information
 
-* **Name:** Darryl Arief Tananjaya
-* **Student ID:** 2802424736
-* **Course:** Research Methodology (Midterm Submission)
+* **Student Name**: Darryl Arief Tananjaya 
+* **Student ID**: 2802424736 
+* **Course Name**: COMP6696001 – Research Methodology in Computer Science
 
 ---
 
-## Project Overview
+## Overall Summary of Work
 
-This repository contains the complete submission for the Research Methodology midterm assignment. The project demonstrates the application of scientific research principles in a computational system, including data processing, fuzzy logic implementation, and analysis of results.
-
-The main goal of this project is to explore how fuzzy inference systems can be applied in a structured computational workflow and evaluated using dataset-driven methods.
+This submission includes all five sections of the midterm assignment as PDF files (PDF 1 through PDF 5), which were separated according to the requirements specified in the exam document. The contents of each section correspond with an individual LO (Learning Outcome) and one of the components of research.
 
 ---
 
-## Project Contents
+## Document Listing
 
-This submission includes the following components:
-
-* `fuzzy_inference_demo.py` → Main implementation of fuzzy inference system
-* `requirements.txt` → Python dependencies required to run the project
-* `npc_dataset.csv` → Dataset used for testing and evaluation
-* `fuzzy_pipeline.png` → Visualization of the system pipeline
-* `research_paper.pdf` → Written research documentation and analysis
+* **PDF 1:** Fundamentals Of Research – lifecycle stages, variables, example experiment
+* **PDF 2:** Research Topic & IEEE Terminology; Variables & Intervention
+* **PDF 3:** Literature Review (30 Papers + Analysis Table)
+* **PDF 4:** Design For Research Methodology – method, dataset, procedures, diagrams
+* **PDF 5:** Draft Full Paper On Research – intro, related work, methodology, references
 
 ---
 
-## Objectives
+## Summarizing This Work:
 
-* Apply scientific research methodology in a computing project
-* Implement a fuzzy logic-based system
-* Analyze dataset behavior using computational techniques
-* Document findings in a structured research format
+The work completed in this project utilizes scientific research methodology within the field of computer science. The areas addressed include theoretical foundations of research methodologies, a literature review of existing works, experimental designs utilized in research projects and finally an overview on how to write academically. A fuzzy inference system was also created to serve as a working implementation example of the concepts presented throughout the project.
 
 ---
 
-## How to Run the Project
+## Additional Details
 
-1. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-2. Run the main program:
-
-```bash
-python fuzzy_inference_demo.py
-```
-
-3. Ensure `npc_dataset.csv` is in the same directory for proper execution.
+* All documents have been provided as separate PDFs for submitting purposes as per required format.
+* Each PDF has a direct correspondence to one of the four LO’s that the project addressed.
 
 ---
 
-## Research Summary
+## Academic Integrity Declaration
 
-This project follows a structured research workflow starting from problem identification, data collection, system design, implementation, and evaluation. The fuzzy inference system is used to simulate decision-making based on uncertain or imprecise input data.
-
----
-
-## Notes
-
-* All components are included in this submission as required.
-* The system is designed for educational and research purposes.
-
----
-
-## License
-
-This project is submitted for academic purposes only.
-
+Submission for COMP6696001 mid term assessment (Original academic work).
